@@ -5,7 +5,7 @@
     --fundo-senha: #3B7597;
     --fundo-texto: #6FD1D7;
     --borda: #5DF8D8;
-    --fira-sans: "Fira Sans", sans-serif;
+    --fonte: "Fira Sans", sans-serif;
 
 }
 *{
@@ -14,8 +14,8 @@
 body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
-    font-family: var(--fira-sans)
+    font-family: var(--fonte)
 }
 .titulo-principal{
-    
+
 }
