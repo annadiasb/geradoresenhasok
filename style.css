@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+:root{
+    --branco: white;
+    --cor-de-fundo: #093C5D;
+    --fundo-senha: #3B7597;
+    --fundo-texto: #6FD1D7;
+    --borda: #5DF8D8;
+    --fira-sans: "Fira Sans", sans-serif;
+
+}
+*{
+    font-weight:400;
+}
+body{
+    color: var(--branco);
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fira-sans)
+}
+.titulo-principal{
+    
+}
